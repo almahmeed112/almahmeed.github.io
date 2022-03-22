@@ -1,0 +1,14 @@
+Package: com.SHAHIDVIP.25_7.9.0_iphoneos-arm 
+Version: 25.7.9
+Architecture: iphoneos-arm
+Maintainer: ALMAHMEED	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts:  	
+Filename: debs/com.SHAHIDVIP.25_7.9.0_iphoneos-arm.deb	
+Size: 64896
+MD5sum: a05114c093658d2cb8eb03942ddf79b7 	
+SHA1: 25a4cbbad3da385a2ae2dddc3e8ec9cc6d655b57
+SHA256: 07467e8eb38110e892976c9dce3fcb04e719dd7ba9d20be428ca0c2fab5200d5
+Section: Tweaks
+Depiction: https://github.com/almahmeed112/repo
+Name: SHAHIDVIP
