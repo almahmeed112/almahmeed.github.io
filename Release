@@ -4,5 +4,6 @@ Label: https://almahmeed112.github.io/repo/
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm
+Codename: ios
 Components: main
 Description: test repo
